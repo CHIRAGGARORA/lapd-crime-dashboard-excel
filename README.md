@@ -70,7 +70,7 @@ https://docs.google.com/spreadsheets/d/1ZPhlpUkeee54TAcMoZjKMu19U2-aDm_q/edit?us
 ---
 
 ## 📂 Repository Structure
-
+```
 lapd-crime-dashboard-excel/
 │
 ├── data/
@@ -80,7 +80,7 @@ lapd-crime-dashboard-excel/
 │   └── dashboard-preview.png
 │
 └── README.md
-
+```
 ## 🚀 Future Improvements
 - Build a Power BI version of the dashboard
 - Add geospatial crime mapping
