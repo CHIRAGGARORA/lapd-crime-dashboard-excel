@@ -71,22 +71,15 @@ https://docs.google.com/spreadsheets/d/1ZPhlpUkeee54TAcMoZjKMu19U2-aDm_q/edit?us
 
 ## 📂 Repository Structure
 
-```bash
 lapd-crime-dashboard-excel/
 │
 ├── data/
 │   └── sample-lapd-data.csv
 │
-├── dashboard/
-│   └── LAPD_Dashboard_Portfolio.xlsx
-│
 ├── images/
 │   └── dashboard-preview.png
 │
 └── README.md
-```
-
----
 
 ## 🚀 Future Improvements
 - Build a Power BI version of the dashboard
